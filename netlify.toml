@@ -1,7 +1,4 @@
 [[redirects]]
-  from = "/Services/index.html"
-  to = "/Services"
-
-[[redirects]]
   from = "/*"
-  to = "/Services"
+  to = "/index.html"
+  status = 200
